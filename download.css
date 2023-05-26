@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height:100vh;
+    display:grid;
+    font-size: 1.2rem;
+    place-items:center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.download-btn{
+    background-color: #8e44ad;
+    display: inline-block;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+   border-radius: .5rem;
+    text-decoration: none;
+    
+}
+
+.download-btn:hover {
+    background-color: white;
+  }
+  
