@@ -10,13 +10,18 @@ In terms of technology, the frontend of our website has been developed using HTM
 
 Overall, our e-library website offers a seamless online book purchasing experience, coupled with the convenience of online reading, note-taking, word meanings, and efficient administration through the admin panel.
 
+Home page-
 ![lib home](https://github.com/ShreyaChandurkar/E-Library/assets/132133982/bc22c60c-82fc-4a71-9b33-64a5ed40e793)
 
+Notes -
 ![note](https://github.com/ShreyaChandurkar/E-Library/assets/132133982/0fa80a33-58b4-486d-a6e5-af9bb8f79766)
 
+download/read books-
 ![lib download](https://github.com/ShreyaChandurkar/E-Library/assets/132133982/e0a31861-cd09-4c0e-b9a9-52916d8f3c60)
 
+dictionay-
 ![lib dictionay](https://github.com/ShreyaChandurkar/E-Library/assets/132133982/420d05c6-46f0-499e-b2f0-b36614f776dd)
 
+admin panel-
 ![admin panel](https://github.com/ShreyaChandurkar/E-Library/assets/132133982/af39c447-08ea-49a5-90ec-4eccab9ce925)
 
